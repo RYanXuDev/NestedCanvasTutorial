@@ -1,6 +1,9 @@
 # NestedCanvasTutorial
 
+Tutorial videos: 
+
 YouTube: https://youtu.be/D3m_pfJ1nwQ
+
 Bilibili: https://www.bilibili.com/video/BV1Sr4y117Hj
 
 ## In this tutorial you will learn
